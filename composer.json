@@ -1,22 +1,18 @@
 {
     "name": "snanword/think_framework",
-    "description": "the new thinkphp framework(v5.1.35 update memcached)",
-    "type": "think-framework",
+    "description": "thinkphp framework(v5.1.35 update memcached)",
+    "type": "library",
     "keywords": [
-        "framework",
-        "thinkphp",
-        "ORM"
+        "tp",
+        "5.1.35",
+        "memcached"
     ],
     "homepage": "http://thinkphp.cn/",
-    "license": "Apache-2.0",
+    "license": "MIT",
     "authors": [
         {
-            "name": "liu21st",
-            "email": "liu21st@gmail.com"
-        },
-        {
-            "name": "yunwuxin",
-            "email": "448901948@qq.com"
+            "name": "snanword",
+            "email": "snanword@gmail.com"
         }
     ],
     "require": {

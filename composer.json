@@ -1,7 +1,7 @@
 {
     "name": "snanword/think_framework",
-    "description": "the new thinkphp framework (v5.1.35 up memcached)",
-    "type": "library",
+    "description": "the new thinkphp framework(v5.1.35 update memcached)",
+    "type": "think-framework",
     "keywords": [
         "framework",
         "thinkphp",
